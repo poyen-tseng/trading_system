@@ -1,5 +1,4 @@
-# SJ_account_info_uploader
-自動上傳永豐帳戶資訊
+# 自動上傳永豐帳戶資訊
 
 check_today_info = [
     check_time,
